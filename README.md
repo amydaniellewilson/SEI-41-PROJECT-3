@@ -1,7 +1,10 @@
 ![ga_cog_large_red_rgb](https://cloud.githubusercontent.com/assets/40461/8183776/469f976e-1432-11e5-8199-6ac91363302b.png)
 ​
-# General Assembly – Project 3
-This was the third project during the General Assembly Software Engineering Immersive course (Week 9).
+# Software Engineering Immersive: Project 3
+
+Third project undertaken during the General Assembly Software Engineering Immersive course (week 9). 
+
+---
 
 ## Brief
 The app must deliver something of value to the end-user with a visually impressive design, ideally should be mobile responsive.
@@ -23,12 +26,12 @@ The project should be deployed (fully-working and bug-free) on Heroku
 ​
 ## Timeframe & Team
 ​
-1 week
+7 days
 
 Our Team:
 * Kasia: https://github.com/kasiaaguti
 * Amy: https://github.com/amydaniellewilson
-* Talha: https://github.com/talhaikhlaq
+* Talha: http://bit.ly/ti-github
 ​
 ## Technologies
 
@@ -45,7 +48,7 @@ Our Team:
 
 ## Deployment
 ​
-This website is deployed on Heroku and it can be found here: https://just-fur-them.herokuapp.com/
+This website is deployed on Heroku and it can be found [here] (http://bit.ly/sei-project-3)
 
 
 ## Team Organisation - Loose Agile Framework
@@ -64,9 +67,9 @@ This website is deployed on Heroku and it can be found here: https://just-fur-th
 
 ## Concept
 
-It is  social a hub for people who have pets. It has features similar to Meetup where login users can create profiles to connect with each other to meet with other pet owners in their area.
+It is a social hub for people who have pets. It has features similar to 'Meetup' where logged in users can create profiles to connect with each other in order to meet with other pet owners in their area.
 
-A big part of the project is listing and showing on a map pet friendly pubs, restaurants and cafes in London. Logged in users can add and review venues. Not logged in users can see the map and read reviews, but can't add any of those.
+A big part of the project is listing and showing on a map, pet friendly pubs, restaurants and cafes in London. Logged in users can also add and review venues. Non-registered users may see the map and read reviews, but can not contribute to the location data.
 
 ## Code - backend
 
